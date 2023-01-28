@@ -15,7 +15,7 @@
 ![Preview](https://user-images.githubusercontent.com/29236532/215254035-30920e20-a2ae-4fe8-9c7c-dbe401f3481b.png)
 
 <h3>Similar Project(s):</h3>
-<link ref= 'https://github.com/Arshad221b/Sign-Language-Recognition'>Sign Language Recognition </link>
+<a href= 'https://github.com/Arshad221b/Sign-Language-Recognition'>Sign Language Recognition </a>
 
 
 
