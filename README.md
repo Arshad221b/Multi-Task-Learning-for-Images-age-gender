@@ -1,6 +1,5 @@
-# multi-task-learning-for-age-and-gender
+# Multi Task Learning for Age and Gender from Image
 
-<h1>Sign Language Recognition Using OpenCV</h1>
 <h2>Dependencies:</h2>
   <p>1. Pytorch</p>
   <p>2. OpenCV</p>
